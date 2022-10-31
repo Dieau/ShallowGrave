@@ -1,6 +1,6 @@
 # USAGE
 
-https://gyazo.com/c4b59fafbbc8d8fa66106683bf18d5bb
+![Screenshot](/images/readme.png)
 
 MAKE SURE AUDIO AUTOPLAY IS ENABLED IN YOUR BROWSER
 (! CHROME IS NOT SUPPORTED !)
