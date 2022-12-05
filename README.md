@@ -1,6 +1,6 @@
 # PRESS START TO PLAY
 
-[![SHALLOW GRAVE]/images/readme.png](https://dieau.github.io/ShallowGrave/)
+[![SHALLOW GRAVE](/images/readme.png)](https://dieau.github.io/ShallowGrave/)
 
 # USAGE
 
