@@ -1,6 +1,8 @@
-# USAGE
+# PRESS START TO PLAY
 
-![Screenshot](/images/readme.png)
+[![SHALLOW GRAVE]/images/readme.png](https://dieau.github.io/ShallowGrave/)
+
+# USAGE
 
 MAKE SURE AUDIO AUTOPLAY IS ENABLED IN YOUR BROWSER
 
@@ -12,4 +14,4 @@ WEAR EARPHONES FOR A BETTER EXPERIENCE
 
 START GAME WITH "index.html".
 
-My first code-related project ever.
+*My first code-related project ever.*
