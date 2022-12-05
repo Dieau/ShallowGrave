@@ -2,6 +2,8 @@
 
 [![SHALLOW GRAVE](/images/readme.png)](https://dieau.github.io/ShallowGrave/)
 
+Launch the game directly by clicking this image.
+
 # USAGE
 
 MAKE SURE AUDIO AUTOPLAY IS ENABLED IN YOUR BROWSER
